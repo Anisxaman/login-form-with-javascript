@@ -5,6 +5,11 @@ A simple login form &amp; some withdraw &amp; deposit functionalities of bank.
 
 https://anisxaman.github.io/login-form-with-javascript/
 
+
+## password: anis
+
+## username: admin@gmail.com
+
 ## Author
 
 [Anishuzzaman][author]
