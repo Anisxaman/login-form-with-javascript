@@ -5,6 +5,8 @@ A simple login form &amp; some withdraw &amp; deposit functionalities of bank.
 
 https://anisxaman.github.io/login-form-with-javascript/
 
-[author][Anishuzzaman]
+## author
+
+[Anishuzzaman][author]
 
 [author]: https://www.facebook.com/anishuzzaman/
